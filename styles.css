@@ -1,0 +1,44 @@
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+.calculator{
+    
+    border-radius: 10px;
+    background-color: #223355;
+    height: auto;
+    width: auto;
+
+}
+
+div{
+    margin: 10px;
+}
+
+.dis{
+    width: auto;
+    background-color: rgb(227, 223, 242);
+    border: none;
+   text-align: end;
+}
+
+input{
+    
+    width: 23%;
+    text-align: end;
+  
+    
+    border-radius: 10px;
+    text-align: center;
+   
+}
+
+.equal{
+  width: 83px;
+}
